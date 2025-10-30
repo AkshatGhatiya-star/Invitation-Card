@@ -1,4 +1,4 @@
 This is a Invitation card.
 <br>
 <hr>
-Author - Akshat Ghatiya
+Author - Akshat Ghatiya(Vit Bhopal)
